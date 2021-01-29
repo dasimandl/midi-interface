@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dasimandl/midi-interface/issues"
   },
-  "homepage": "https://github.com/dasimandl/midi-interface#readme"
+  "homepage": "https://github.com/dasimandl/midi-interface#readme",
+  "dependencies": {
+    "easymidi": "^2.0.1"
+  }
 }
